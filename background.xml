@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="2.5.0" group="content">
+	<name>Background-Plugin</name>
+	<author>Axel Tüting</author>
+	<creationDate>Juli 2012</creationDate>
+	<copyright>Copyright (C) Axel Tüting</copyright>
+	<license>GNU General Public License version 3 or later</license>
+	<authorEmail>tueting@time4mambo.de</authorEmail>
+	<authorUrl>http://www.time4mambo.de</authorUrl>
+	<version>1.0</version>
+	<description>Textersetzung mit Hintergrund und Farbe. Einfügen in den Text in dieser Art: {background=image/stories/hg.png farbe=#cecece}</description>
+	<files>
+		<filename plugin="background">background.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
